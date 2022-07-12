@@ -1,0 +1,40 @@
+/* CSS styles */
+.wrapper{
+  width: 600px;
+  /* border: solid black 1px; */
+}
+.ten-chucdanh{
+  font-weight: bold;
+  font-size: 10pt;
+  color: #424242;
+}
+.logo{
+  float: left;
+  margin: 30px;
+  padding: 20px;
+}
+.hinhanh{
+  clear: both;
+  margin: 5px;
+}
+.tencty{
+  margin-bottom: 3px;
+  color: gray;
+  font-family: Arial,sans-serif;
+  font-weight: bold;
+  font-size: 12pt;
+}
+.thongtin{
+  color: gray;
+  font-family: Arial,sans-serif;
+  font-style: italic;
+  font-size: 10pt;
+}
+.hinhanh{
+  margin: auto;
+  width: 100%;
+  
+}
+.clear{
+  clear: both;
+}
